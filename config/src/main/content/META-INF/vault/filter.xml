@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/AOL30/config"/>
+    <filter root="/apps/AOL30/config.author"/>
+    <filter root="/apps/AOL30/config.publish"/>
+    <filter root="/apps/AOL30/config.local"/>
+    <filter root="/apps/AOL30/config.local.author"/>
+    <filter root="/apps/AOL30/config.local.publish"/>
+    <filter root="/apps/AOL30/config.svil"/>
+    <filter root="/apps/AOL30/config.svil.author"/>
+    <filter root="/apps/AOL30/config.svil.publish"/>
+<!--     <filter root="/apps/AOL30"/> -->
+</workspaceFilter>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/AOL30/components" />
+    <filter root="/apps/AOL30/templates" />
+    <filter root="/apps/AOL30/clientlibs" />
+    <filter root="/apps/AOL30/install" />
+</workspaceFilter>
